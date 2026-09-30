@@ -1,0 +1,6 @@
+{
+  "name": "POLAR-NAV AI — Antarctic Navigation Decision Support System",
+  "description": "AI/ML-based Antarctic maritime mission control and predictive route optimization decision support system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
